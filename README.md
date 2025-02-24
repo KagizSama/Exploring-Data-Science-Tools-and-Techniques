@@ -26,4 +26,4 @@ The notebook (`FinalProject.ipynb`) contains the following exercises:
 ## How to View
 1. Clone or download this repository:  
    ```bash
-   [git clone https:/github.com/KagizSama/Exploring-Data-Science-Tools-and-Techniques.git](https://github.com/KagizSama/Exploring-Data-Science-Tools-and-Techniques.git)
+   [git clone https:/github.com/KagizSama/Exploring-Data-Science-Tools-and-Techniques.git]
